@@ -1,3 +1,3 @@
-const baseUrl = 'http://localhost:8000/'
+const baseUrl = 'https://genai-basic-ai-assistant.onrender.com'
 
 export const chatting = baseUrl + 'asking'
