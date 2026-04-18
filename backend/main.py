@@ -9,7 +9,8 @@ from dotenv import load_dotenv
 myapp = FastAPI()
 
 origins = [
-    'http://localhost:5173'
+    'http://localhost:5173',
+    'https://genai-basic-ai-assistant-sq2m-lates.vercel.app'
 ]
 
 myapp.add_middleware(
