@@ -1,3 +1,3 @@
-const baseUrl = 'https://genai-basic-ai-assistant.onrender.com/'
+const baseUrl = 'https://mohit-personal-chat-assistant.vercel.app/'
 
 export const chatting = baseUrl + 'asking'
