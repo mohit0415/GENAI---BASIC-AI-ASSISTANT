@@ -10,7 +10,8 @@ myapp = FastAPI()
 
 origins = [
     'http://localhost:5173',
-    'https://genai-basic-ai-assistant-sq2m-lates.vercel.app'
+    'https://genai-basic-ai-assistant-sq2m-lates.vercel.app',
+    'https://mohit-personal-chat-assistant.vercel.app/'
 ]
 
 myapp.add_middleware(
